@@ -20,4 +20,12 @@ The calculator can handle:
 
 
 # DemoSite
+https://anjali2802.github.io/calculator/
+
+<img width="576" alt="calculator1" src="https://github.com/user-attachments/assets/bb7ae5d9-8dd4-4397-92f3-36c387b45844">
+
+
+<img width="576" alt="calculator2" src="https://github.com/user-attachments/assets/e1459756-099e-437a-b2f8-10d378cc2d3c">
+
+
 
